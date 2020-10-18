@@ -2,11 +2,11 @@
 
 <p align="center">
 (en-US)
-This project includes Back-end, Front-end and also Mobile.
+This project includes Back-end, and also Mobile application.
 </p>
 <p align="center">
 (pt-BR)
-Esse projeto englobal Back-end, Front-end e também Mobile.
+Esse projeto englobal Back-end, e também aplicativo Mobile.
 </p>
 
 <p align="center">
@@ -17,7 +17,6 @@ Esse projeto englobal Back-end, Front-end e também Mobile.
 
 <p align="center">
   <img src="./src/git/happy.png" height=250px width= 400/>
-  <img src="./src/git/page1.png"height=250px width= 400/>
   <img src="./src/git/mobile.gif" height=180px width=90px/>
 </p>
 
