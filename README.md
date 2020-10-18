@@ -43,10 +43,10 @@ Esse projeto foi desenvolvido na NLW3 da Rocketseat com as seguintes tecnologias
 
 ## 🗒 Licença
 (en-US)
-This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for more details.
+This project is under the MIT license. See the file [LICENSE](./LICENSE.md) for more details.
 
 (pt-BR)
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
 
 ---
 ###### Developed on Next Level Week 3 from [Rocketseat](https://rocketseat.com.br) - by João Vitor Cheron
