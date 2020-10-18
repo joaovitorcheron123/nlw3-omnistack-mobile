@@ -2,11 +2,11 @@
 
 <p align="center">
 (en-US)
- <h3> This project includes Back-end, Front-end and also Mobile.</h3>
+This project includes Back-end, Front-end and also Mobile.
 </p>
 <p align="center">
 (pt-BR)
- <h3> Esse projeto englobal Back-end, Front-end e também Mobile.</h3>
+Esse projeto englobal Back-end, Front-end e também Mobile.
 </p>
 
 <p align="center">
