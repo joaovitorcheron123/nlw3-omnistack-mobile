@@ -6,7 +6,7 @@ This project includes Back-end, and also Mobile application.
 </p>
 <p align="center">
 (pt-BR)
-Esse projeto englobal Back-end, e também aplicativo Mobile.
+Esse projeto engloba Back-end, e também aplicativo Mobile.
 </p>
 
 <p align="center">
